@@ -6,8 +6,6 @@ Links to my completed projects by freeCodeCamp.
 
 Complete projects from **freeCodeCamp** and learned react. It was challenging but got through by alot of practice.
 
-> "You learn more from failure than from success. Don't let it stop you. Failure builds character." – Unknown
-
 | Table of Contents |
 | --- |
 | [Markdown Previewer]() |
