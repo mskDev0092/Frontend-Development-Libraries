@@ -14,7 +14,7 @@ Complete projects from **freeCodeCamp** and learned react. It was challenging bu
 | [Calculator App]() |
 | [Drum-machine]() |
 | [React 25 + 5 Clock]() |
-| []() |
+| [Random Quote Machine]() |
 
 ## 1. Markdown Previewer
 
@@ -50,8 +50,13 @@ Complete projects from **freeCodeCamp** and learned react. It was challenging bu
 - Repository URL: [https://github.com/mskDev0092/react-v-clock](https://github.com/mskDev0092/react-v-clock)
 - Solution URL: [https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-25--5-clock](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-25--5-clock)
 
+## 5. Random Quote Machine
 
+![screenshot](https://github.com/mskDev0092/Random-Quote-Machine/blob/main/Screenshot%202023-09-21%20at%2001-39-37%20React%20Calculator%20App.png)
 
+- Live Site URL: [https://my-random-quote-machine-fcc.stackblitz.io/](https://my-random-quote-machine-fcc.stackblitz.io/)
+- Repository URL: [https://github.com/mskDev0092/Random-Quote-Machine](https://github.com/mskDev0092/Random-Quote-Machine)
+- Solution URL: [https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine)
 
 
 
